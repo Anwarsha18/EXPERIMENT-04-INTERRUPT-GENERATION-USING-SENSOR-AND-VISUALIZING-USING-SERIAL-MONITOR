@@ -268,12 +268,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 
-  <img width="1152" height="520" alt="WhatsApp Image 2026-09-22 at 10 46 22 AM" src="https://github.com/user-attachments/assets/119f356c-6034-433f-ba2d-bddca983e13b" />
+<img width="1152" height="520" alt="WhatsApp Image 2026-09-22 at 10 46 22 AM" src="https://github.com/user-attachments/assets/119f356c-6034-433f-ba2d-bddca983e13b" />
 
 
  ## Circuit board :
  # without interrupt
- <img width="1152" height="520" alt="WhatsApp Image 2026-09-22 at 10 46 23 AM (1)" src="https://github.com/user-attachments/assets/e9fce316-d756-4e8b-b853-957ef61d6379" />
+<img width="1152" height="520" alt="WhatsApp Image 2026-09-22 at 10 46 23 AM (1)" src="https://github.com/user-attachments/assets/e9fce316-d756-4e8b-b853-957ef61d6379" />
 
  
 # with interrupt
